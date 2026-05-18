@@ -26,12 +26,7 @@ namespace RBLBankApp.Services
         // O(1)
         // =========================================================
 
-        private readonly string connectionString =
-            @"Data Source=IMIM-SW-RNT-L11\SQLEXPRESSPDS;
-              Initial Catalog=RBLBankDB;
-              User ID=sa;
-              Password=pds@123;
-              TrustServerCertificate=True;";
+     *************************   // Add here your DataBase Credentials to Login and Register ************************
 
         // =========================================================
         // EXECUTE SELECT QUERY
