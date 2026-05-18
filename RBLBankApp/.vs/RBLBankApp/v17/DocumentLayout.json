@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|c:\\users\\software\\source\\repos\\rblbankapp\\views\\transactionform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\transactionform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\transactionform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\transactionform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\accountform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\accountform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\userform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\userform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|c:\\users\\software\\source\\repos\\rblbankapp\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repos\\RBLBankApp\\obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\accountform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\accountform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\accountspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\accountspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\views\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:views\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\resources\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:resources\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\resources\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:resources\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|C:\\Users\\Software\\source\\repos\\RBLBankApp\\services\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EB1EB-7C11-403C-82E2-1A74834DE20B}|RBLBankApp.csproj|solutionrelative:services\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\TransactionForm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TransactionForm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\RegisterWindow.xaml",
+              "RelativeToolTip": "Views\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T13:46:57.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "Views\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAkwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:47:07.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\TransactionForm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TransactionForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\TransactionForm.xaml.cs",
+              "RelativeToolTip": "Views\\TransactionForm.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:49:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\TransactionForm.xaml",
+              "RelativeDocumentMoniker": "Views\\TransactionForm.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\TransactionForm.xaml",
+              "RelativeToolTip": "Views\\TransactionForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:15:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:46:51.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T13:46:38.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:26:44.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AccountForm.xaml",
+              "RelativeDocumentMoniker": "Views\\AccountForm.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AccountForm.xaml",
+              "RelativeToolTip": "Views\\AccountForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:14:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Views\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\UserViewModel.cs",
+              "RelativeToolTip": "Views\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T09:41:02.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\UserForm.xaml",
+              "RelativeDocumentMoniker": "Views\\UserForm.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\UserForm.xaml",
+              "RelativeToolTip": "Views\\UserForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:15:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\TransactionForm.xaml",
+              "RelativeDocumentMoniker": "Models\\TransactionForm.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\TransactionForm.xaml",
+              "RelativeToolTip": "Models\\TransactionForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T04:22:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-09T04:20:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DashboardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "Views\\DashboardWindow.xaml.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAADwv0kBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:52:34.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\DashboardWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\DashboardWindow.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\DashboardWindow.xaml",
+              "RelativeToolTip": "Views\\DashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:16:11.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\obj\\Debug\\App.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\App.g.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\obj\\Debug\\App.g.cs",
+              "RelativeToolTip": "obj\\Debug\\App.g.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwD4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:26:23.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Views\\AccountForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AccountForm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AccountForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AccountForm.xaml.cs",
+              "RelativeToolTip": "Views\\AccountForm.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T10:01:13.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AuthWindow.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AuthWindow.xaml",
+              "RelativeToolTip": "Views\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T13:52:08.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AccountsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AccountsPage.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AccountsPage.xaml",
+              "RelativeToolTip": "Views\\AccountsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:16:29.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Resources\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "Resources\\ButtonStyles.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Resources\\ButtonStyles.xaml",
+              "RelativeToolTip": "Resources\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T08:32:04.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Resources\\Colors.xaml",
+              "RelativeDocumentMoniker": "Resources\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Resources\\Colors.xaml",
+              "RelativeToolTip": "Resources\\Colors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T08:32:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Resources\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T08:32:17.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AuthWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Views\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AuthWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:52:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:26:40.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:03:26.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T13:37:22.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-01T11:28:21.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:29:07.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:28:56.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:28:41.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Services\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "Services\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repos\\RBLBankApp\\Services\\SecurityHelper.cs",
+              "RelativeToolTip": "Services\\SecurityHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:26:50.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

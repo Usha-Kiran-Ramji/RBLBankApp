@@ -1,0 +1,34 @@
+<Window x:Class="RBLBankApp.Views.UserForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="User Details" Height="500" Width="400"
+        WindowStartupLocation="CenterScreen"
+        Background="{StaticResource BackgroundLight}"
+        ResizeMode="NoResize">
+
+    <Grid Margin="30">
+        <StackPanel>
+            <TextBlock Text="User Information" FontSize="22" FontWeight="Bold" Foreground="{StaticResource BrandBlue}" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Full Name" Foreground="{StaticResource TextDark}" FontWeight="SemiBold" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtFullName" Height="35" Padding="5" Margin="0,0,0,15"/>
+
+            <TextBlock Text="Username" Foreground="{StaticResource TextDark}" FontWeight="SemiBold" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtUsername" Height="35" Padding="5" Margin="0,0,0,15"/>
+
+            <TextBlock Text="Email Address" Foreground="{StaticResource TextDark}" FontWeight="SemiBold" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtEmail" Height="35" Padding="5" Margin="0,0,0,15"/>
+
+            <TextBlock Text="Password" Foreground="{StaticResource TextDark}" FontWeight="SemiBold" Margin="0,0,0,5"/>
+            <PasswordBox x:Name="txtPassword" Height="35" Padding="5" Margin="0,0,0,15"/>
+
+            <TextBlock Text="Role" Foreground="{StaticResource TextDark}" FontWeight="SemiBold" Margin="0,0,0,5"/>
+            <ComboBox x:Name="cmbRole" Height="35" Margin="0,0,0,25" FontSize="14" Padding="5">
+                <ComboBoxItem Content="User" IsSelected="True"/>
+                <ComboBoxItem Content="Admin"/>
+            </ComboBox>
+
+            <Button Content="Save User" Style="{StaticResource PrimaryButton}" Height="40" Click="Save_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,407 @@
+<Window x:Class="RBLBankApp.Views.DashboardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Title="RBL Bank Dashboard"
+        Height="720"
+        Width="1250"
+        WindowStartupLocation="CenterScreen"
+        Background="#F4F7FC">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- ================= SIDEBAR ================= -->
+
+        <Border Grid.Column="0"
+                Background="#1565C0">
+
+            <StackPanel>
+
+                <TextBlock Text="RBL BANK"
+                           Foreground="White"
+                           FontSize="28"
+                           FontWeight="Bold"
+                           Margin="25,40,0,40"/>
+
+                <Button Content="🏠 Dashboard"
+                        Height="50"
+                        Margin="15,10"
+                        Click="Home_Click"/>
+
+                <Button Content="👤 Manage Users"
+                        Height="50"
+                        Margin="15,10"
+                        Click="Users_Click"/>
+
+                <Button Content="🏦 Accounts"
+                        Height="50"
+                        Margin="15,10"
+                        Click="Accounts_Click"/>
+
+                <Button Content="💸 Transactions"
+                        Height="50"
+                        Margin="15,10"
+                        Click="Transactions_Click"/>
+
+                <Button Content="🚪 Logout"
+                        Height="50"
+                        Margin="15,40,15,10"
+                        Background="#D32F2F"
+                        Foreground="White"
+                        Click="Logout_Click"/>
+
+            </StackPanel>
+
+        </Border>
+
+        <!-- ================= MAIN CONTENT ================= -->
+
+        <Grid Grid.Column="1"
+              Margin="25">
+
+            <!-- ================= HOME SECTION ================= -->
+
+            <StackPanel x:Name="HomeSection">
+
+                <TextBlock Text="Dashboard Overview"
+                           FontSize="30"
+                           FontWeight="Bold"
+                           Foreground="#1565C0"
+                           Margin="0,0,0,25"/>
+
+                <!-- CARDS -->
+
+                <WrapPanel Margin="0,0,0,25">
+
+                    <!-- USERS -->
+
+                    <Border Width="220"
+                            Height="120"
+                            Background="White"
+                            CornerRadius="12"
+                            Padding="20"
+                            Margin="0,0,20,0">
+
+                        <StackPanel>
+
+                            <TextBlock Text="TOTAL USERS"
+                                       FontWeight="Bold"
+                                       Foreground="Gray"/>
+
+                            <TextBlock x:Name="txtTotalUsers"
+                                       FontSize="34"
+                                       FontWeight="Bold"
+                                       Foreground="#1565C0"
+                                       Margin="0,10,0,0"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                    <!-- ACCOUNTS -->
+
+                    <Border Width="220"
+                            Height="120"
+                            Background="White"
+                            CornerRadius="12"
+                            Padding="20"
+                            Margin="0,0,20,0">
+
+                        <StackPanel>
+
+                            <TextBlock Text="TOTAL ACCOUNTS"
+                                       FontWeight="Bold"
+                                       Foreground="Gray"/>
+
+                            <TextBlock x:Name="txtTotalAccounts"
+                                       FontSize="34"
+                                       FontWeight="Bold"
+                                       Foreground="#2E7D32"
+                                       Margin="0,10,0,0"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                    <!-- BALANCE -->
+
+                    <Border Width="220"
+                            Height="120"
+                            Background="White"
+                            CornerRadius="12"
+                            Padding="20">
+
+                        <StackPanel>
+
+                            <TextBlock Text="TOTAL BALANCE"
+                                       FontWeight="Bold"
+                                       Foreground="Gray"/>
+
+                            <TextBlock x:Name="txtTotalBalance"
+                                       FontSize="26"
+                                       FontWeight="Bold"
+                                       Foreground="#D32F2F"
+                                       Margin="0,10,0,0"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                    <!-- TRANSACTIONS -->
+
+                    <Border Width="220"
+                            Height="120"
+                            Background="White"
+                            CornerRadius="12"
+                            Margin="20,0,0,0"
+                            Padding="20">
+
+                        <StackPanel>
+
+                            <TextBlock Text="TOTAL TRANSACTIONS"
+                                       FontWeight="Bold"
+                                       Foreground="Gray"/>
+
+                            <TextBlock x:Name="txtTotalTransactions"
+                                       FontSize="34"
+                                       FontWeight="Bold"
+                                       Foreground="#FB8C00"
+                                       Margin="0,10,0,0"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                </WrapPanel>
+
+                <!-- CHARTS -->
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- BAR CHART -->
+
+                    <Border Grid.Column="0"
+                            Background="White"
+                            CornerRadius="12"
+                            Padding="20"
+                            Margin="0,0,15,0">
+
+                        <StackPanel>
+
+                            <TextBlock Text="System Metrics"
+                                       FontSize="18"
+                                       FontWeight="Bold"
+                                       Margin="0,0,0,15"/>
+
+                            <lvc:CartesianChart x:Name="BarChart"
+                                                Height="300"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                    <!-- PIE CHART -->
+
+                    <Border Grid.Column="1"
+                            Background="White"
+                            CornerRadius="12"
+                            Padding="20">
+
+                        <StackPanel>
+
+                            <TextBlock Text="Financial Distribution"
+                                       FontSize="18"
+                                       FontWeight="Bold"
+                                       Margin="0,0,0,15"/>
+
+                            <lvc:PieChart x:Name="PieChart"
+                                          Height="300"/>
+
+                        </StackPanel>
+
+                    </Border>
+
+                </Grid>
+
+            </StackPanel>
+
+            <!-- ================= USERS SECTION ================= -->
+
+            <StackPanel x:Name="UsersSection"
+                        Visibility="Collapsed">
+
+                <TextBlock Text="Manage Users"
+                           FontSize="28"
+                           FontWeight="Bold"
+                           Foreground="#1565C0"
+                           Margin="0,0,0,20"/>
+
+                <Grid Margin="0,0,0,15">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- SEARCH -->
+
+                    <TextBox x:Name="txtSearchUser"
+                             Width="300"
+                             Height="40"
+                             Padding="10"
+                             HorizontalAlignment="Left"
+                             TextChanged="SearchUser_TextChanged"/>
+
+                    <!-- BUTTONS -->
+
+                    <StackPanel Grid.Column="1"
+                                Orientation="Horizontal">
+
+                        <Button Content="+ Add User"
+                                Width="110"
+                                Height="40"
+                                Margin="5"
+                                Click="AddUser_Click"/>
+
+                        <Button Content="Edit"
+                                Width="80"
+                                Height="40"
+                                Margin="5"
+                                Click="EditUser_Click"/>
+
+                        <Button Content="Delete"
+                                Width="80"
+                                Height="40"
+                                Margin="5"
+                                Background="#D32F2F"
+                                Foreground="White"
+                                Click="DeleteUser_Click"/>
+
+                    </StackPanel>
+
+                </Grid>
+
+                <Border Background="White"
+                        CornerRadius="12"
+                        Padding="10">
+
+                    <DataGrid x:Name="UsersGrid"
+                              Height="450"
+                              AutoGeneratingColumn="UsersGrid_AutoGeneratingColumn"/>
+
+                </Border>
+
+                <TextBlock x:Name="txtEmptyUsers"
+                           Text="No Users Found"
+                           Foreground="Gray"
+                           FontSize="16"
+                           HorizontalAlignment="Center"
+                           Margin="0,15,0,0"
+                           Visibility="Collapsed"/>
+
+            </StackPanel>
+
+            <!-- ================= ACCOUNTS SECTION ================= -->
+
+            <StackPanel x:Name="AccountsSection"
+                        Visibility="Collapsed">
+
+                <TextBlock Text="Bank Accounts"
+                           FontSize="28"
+                           FontWeight="Bold"
+                           Foreground="#1565C0"
+                           Margin="0,0,0,20"/>
+
+                <Grid Margin="0,0,0,15">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox x:Name="txtSearchAccount"
+                             Width="300"
+                             Height="40"
+                             Padding="10"
+                             HorizontalAlignment="Left"
+                             TextChanged="SearchAccount_TextChanged"/>
+
+                    <Button Grid.Column="1"
+                            Content="+ Add Account"
+                            Width="140"
+                            Height="40"
+                            Click="AddAccount_Click"/>
+
+                </Grid>
+
+                <Border Background="White"
+                        CornerRadius="12"
+                        Padding="10">
+
+                    <DataGrid x:Name="AccountsGrid"
+                              Height="450"/>
+
+                </Border>
+
+                <TextBlock x:Name="txtEmptyAccounts"
+                           Text="No Accounts Found"
+                           Foreground="Gray"
+                           FontSize="16"
+                           HorizontalAlignment="Center"
+                           Margin="0,15,0,0"
+                           Visibility="Collapsed"/>
+
+            </StackPanel>
+
+            <!-- ================= TRANSACTIONS SECTION ================= -->
+
+            <StackPanel x:Name="TransactionsSection"
+                        Visibility="Collapsed">
+
+                <TextBlock Text="Transactions"
+                           FontSize="28"
+                           FontWeight="Bold"
+                           Foreground="#1565C0"
+                           Margin="0,0,0,20"/>
+
+                <Button Content="💸 Transfer Money"
+                        Width="180"
+                        Height="40"
+                        HorizontalAlignment="Right"
+                        Margin="0,0,0,15"
+                        Click="Transfer_Click"/>
+
+                <Border Background="White"
+                        CornerRadius="12"
+                        Padding="10">
+
+                    <DataGrid x:Name="TransactionsGrid"
+                              Height="450"/>
+
+                </Border>
+
+                <TextBlock x:Name="txtEmptyTransactions"
+                           Text="No Transactions Found"
+                           Foreground="Gray"
+                           FontSize="16"
+                           HorizontalAlignment="Center"
+                           Margin="0,15,0,0"
+                           Visibility="Collapsed"/>
+
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+
+</Window>
